@@ -6,5 +6,8 @@ I have used it for learning
 
 My Changed in M1
 
+<<<<<<< HEAD
 
 SoumyaJit
+Soumya
+
